@@ -14,7 +14,7 @@ import jwt from 'jsonwebtoken';
 import ChangeAppLanguage from './Layout/ChangeAppLanguage';
 import TopbarLanguage from './Landing/components/TopbarLanguage';
 import { Icon } from '@material-ui/core';
-
+  
 // login component
 class LogIn extends PureComponent {
   static propTypes = {
