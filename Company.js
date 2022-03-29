@@ -15,7 +15,7 @@ const common_company =  tlang('common_company')?tlang('common_company'):'Company
 const common_choose =  tlang('common_choose')?tlang('common_choose'):'Choose';
 const topbar_link_logout = tlang('topbar_link_logout')?tlang('topbar_link_logout'):'Logout';
 const please_wait_login_to_admin = tlang('please_wait_login_to_admin')?tlang('please_wait_login_to_admin'):'Please Wait, Login to Super Admin';
-
+  
 // Company slection component login step 2
 class Company extends PureComponent {
 
